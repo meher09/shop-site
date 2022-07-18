@@ -8,6 +8,8 @@ Hero-Area
 --hero-paragraph
 --hero-button
 Featured-Section
+--featured-image
+--featured-content
 --featured-title
 --featured-moto
 --icon
